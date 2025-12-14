@@ -1,11 +1,11 @@
 🚗⚡ Electric Vehicle Data Analysis – Tableau Dashboard
 📌 Overview
 
-This project presents an interactive Tableau dashboard that analyzes the electric vehicle (EV) ecosystem, focusing on adoption trends, manufacturer dominance, geographic distribution, and Clean Alternative Fuel Vehicle (CAFV) eligibility. The dashboard enables data-driven insights into the growth and composition of the EV market.
+This project features an interactive Tableau dashboard analyzing the electric vehicle (EV) ecosystem. It provides insights into EV adoption trends, manufacturer performance, geographic distribution, and Clean Alternative Fuel Vehicle (CAFV) eligibility to support data-driven analysis of the EV market.
 
 🎯 Project Objectives
 
-Analyze the total number of electric vehicles and market growth trends
+Analyze total electric vehicles and overall market growth
 
 Compare Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs)
 
@@ -13,13 +13,13 @@ Identify top EV manufacturers and most popular models
 
 Visualize state-wise EV adoption
 
-Assess CAFV eligibility distribution
+Evaluate CAFV eligibility distribution
 
 🛠️ Tools & Technologies
 
 Tableau
 
-Data Visualization & KPI Analysis
+Data Visualization and KPI Analysis
 
 Excel / CSV (data source)
 
@@ -29,9 +29,9 @@ Total Vehicles
 
 Average Electric Range
 
-Total BEV Vehicles and % Share
+Total BEV Vehicles and percentage share
 
-Total PHEV Vehicles and % Share
+Total PHEV Vehicles and percentage share
 
 📈 Visualizations Included
 
@@ -40,28 +40,29 @@ Line / Area Chart: EV growth by model year
 Map Chart: State-wise EV distribution
 
 Bar Chart: Top EV manufacturers
+
+Donut Chart: CAFV eligibility breakdown
+
+Table View: Top EV models
+
 🚀 How to Use
 
 Download the .twbx or .twb file
 
 Open it in Tableau Desktop
 
-Use filters (EV Type, State, Model, CAFV Eligibility) to explore insights
+Use available filters (EV Type, State, Model, CAFV Eligibility)
 
-Analyze trends and distributions interactively
+Explore trends and insights interactively
 
-🔍 Insights Generated
+🔍 Key Insights
 
-EV adoption has grown significantly since 2010
+EV adoption has increased significantly since 2010
 
 BEVs dominate the EV market compared to PHEVs
 
-Tesla leads in total vehicle count across manufacturers
+Tesla leads in total vehicle count among manufacturers
 
-EV adoption varies significantly by state
+EV adoption varies considerably by state
 
-CAFV eligibility plays a key role in EV distribution
-
-Donut Chart: CAFV eligibility breakdown
-
-Table View: Top EV models
+CAFV eligibility influences EV distribution
